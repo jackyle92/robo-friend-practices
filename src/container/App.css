@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Stuart Little Secondary Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Stuart Little Secondary Regular"),
+    url("StuartLittleSecondary-8MD2D.woff") format("woff");
+}
+
+h1 {
+  font-family: Stuart Little Secondary Regular;
+  font-weight: 200;
+  color: lightblue;
+}
