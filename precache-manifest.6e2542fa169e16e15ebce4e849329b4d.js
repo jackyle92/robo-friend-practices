@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "56b17154b71c91ab2435",
+    "revision": "ed7a4876cdf120e29cb2",
     "url": "/robo-friend-publish/static/css/main.c3da433b.chunk.css"
   },
   {
-    "revision": "56b17154b71c91ab2435",
-    "url": "/robo-friend-publish/static/js/main.56b17154.chunk.js"
+    "revision": "ed7a4876cdf120e29cb2",
+    "url": "/robo-friend-publish/static/js/main.ed7a4876.chunk.js"
   },
   {
     "revision": "ee2fa2fc286181834050",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/robo-friend-publish/static/media/StuartLittleSecondary-8MD2D.f8c7aabe.woff"
   },
   {
-    "revision": "c7187d138f566176a0a7f8540b95c4a0",
+    "revision": "235c51c1c475ba5599aaa25237ad71a8",
     "url": "/robo-friend-publish/index.html"
   }
 ];
